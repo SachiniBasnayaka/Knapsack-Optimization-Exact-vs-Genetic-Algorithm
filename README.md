@@ -1,8 +1,5 @@
 #  A Comparative Analysis of Exact Optimization and Genetic Algorithms for Solving the 0–1 Knapsack Problem
 
-![MATLAB](https://img.shields.io/badge/MATLAB-R2024a+-e16707?style=for-the-badge&logo=mathworks&logoColor=white)
-![Operations Research](https://img.shields.io/badge/Operations_Research-MFM3142-276DC3?style=for-the-badge)
-
 ---
 
 ## 📌 Project Overview
