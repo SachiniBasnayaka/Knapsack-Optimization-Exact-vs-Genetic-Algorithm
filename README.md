@@ -1,7 +1,5 @@
 #  A Comparative Analysis of Exact Optimization and Genetic Algorithms for Solving the 0–1 Knapsack Problem
 
----
-
 ## 📌 Project Overview
 
 This repository contains a MATLAB-based comparative study evaluating **Exact Optimization methods** against a custom-built **Genetic Algorithm (GA)** for solving the classical **0–1 Knapsack Problem**. 
