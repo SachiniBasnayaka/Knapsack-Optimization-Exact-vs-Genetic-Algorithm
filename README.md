@@ -18,22 +18,6 @@ The study focuses on selecting the optimal subset of items to maximize total val
 
 ---
 
-## 🧮 Mathematical Formulation
-
-Given a set of $n$ items, each with value $v_i$ and weight $w_i$, and a maximum knapsack capacity $W$, the 0–1 Knapsack Problem is formulated as:
-
-$$\max \sum_{i=1}^{n} v_i x_i$$
-
-**Subject to:**
-
-$$\sum_{i=1}^{n} w_i x_i \leq W$$
-
-$$x_i \in \{0, 1\}, \quad \forall i = 1, 2, \dots, n$$
-
-Where $x_i = 1$ indicates that item $i$ is included in the knapsack, and $x_i = 0$ otherwise.
-
----
-
 ## ⚙️ Methodology
 
 ### 1. Exact Optimization
@@ -70,6 +54,20 @@ Two primary experiments were conducted to evaluate algorithmic efficiency:
 * **Metaheuristic Necessity:** Genetic Algorithms require tailored constraint-handling strategies (e.g., greedy repair operators) and adaptive parameter tuning to remain competitive on large-scale combinatorial problems.
 
 ---
+## 🛠️ Tools and Technologies
+
+MATLAB | Mathematical Optimization | Genetic Algorithms | Integer Programming | Dynamic Programming | Operations Research
+
+---
+
+## 🎓 Academic Information
+
+* **Course:** Operational Research III (MFM3142)
+* **Project Type:** Group Case Study
+* **Group:** 06
+* **Institution:** University of Ruhuna
+* **Department:** Department of Mathematics
+* **Supervisor:** Dr. D. M. Samaratunga
 
 ## 📂 Repository Structure
 
